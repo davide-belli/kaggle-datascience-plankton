@@ -109,3 +109,4 @@ ENV/
 
 competition_data/*
 kaggle_files/*
+tmp/*
